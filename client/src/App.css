@@ -1,0 +1,20 @@
+button {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  color: teal;
+  border: 1px solid teal;
+  min-width: 80px;
+  height: 45px;
+  transition: all 0.22s;
+}
+ .didntReadedButton {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  color: rgb(90, 19, 108);
+  border: 1px solid rgb(0, 53, 128);
+  min-width: 80px;
+  height: 45px;
+  transition: all 0.22s;
+ }
